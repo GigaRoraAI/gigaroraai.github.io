@@ -1,0 +1,151 @@
+Quem testou,Data,Assunto,Pergunta,Resposta do chatbot (ou parte principal desta),Correção sugerida,Severidade
+Fulano,04/03/2026,Migração de dados eviado no SGP 1.0 para o 2.0,xxxx,xxxx,Materiais/conteúdos desatualizados - atualizar a base de mateiriais,"S1 — Crítica: induz erro operacional grave / orientação errada / risco alto de uso.
+
+S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+
+S3 — Média: ruído de clareza, falta exemplo, pequena lacuna.
+
+S4 — Baixa: ajuste editorial (português, formatação, tom)."
+Renato,04/03/2026,Calendário de Janelas,e quais serão as janelas de envio de dados?,"Primeira janela de 2026: de 19 de janeiro a 06 de fevereiro
+Segunda janela de 2026: de 10 de fevereiro a 06 de março",Atualizar calendário de janelas,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Renato,04/03/2026,grupos de whatsapp,como posso ter acesso ao grupo de whataspp?,"No entanto, as informações sobre como ter acesso direto a este grupo (como um link ou QR Code específico para adesão) não estão detalhadas na minha base de conhecimento atual","Criar material com link do grupo geral (""canal de transmissão"")","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Renato,04/03/2026,Primeiro acesso,"estou chegando agora. Meus primeiros passos. Não sei nada, por onde eu começo?","1) Roteiro sem link ou encaminhamentos concretos
+
+2) Datas de plantões desatualziadas (20/01 - 10h)",Revisar materiis deste segmento de primeiro acesso,S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+Carlos MEC,05/03/2026,Login,-,-,"Add (se for ter esse cadastro) formações:
+Mestrando
+Mestrado
+Doutorando
+Doutor","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Carlos MEC,05/03/2026,respostas,-,-,Ser clicável,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Gabriel Mallet,06/03/2026,Orientações sobre cadastro de matrícula,"Você pode me ajudar a enviar cadastros de matrículas no sistema?","[...]
+DADOS OBRIGATÓRIOS - PLANILHA DE CADASTRO E REMATRÍCULA:
+
+| Texto da coluna | Tipo de dado | Observação","A resposta iniciou bem completa, indicando o passo a passo para envio do dado no SGP, mas ao final, não gerou a informação dos dados obrigatórios na planilha e o sistema travou, sem completar a resposta. Tive que apertar o botão de stop para ele parar de tentar gerar a resposta.",S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+João Bispo Dos Santos Júnior ,06/03/2026,Qual seria o impacto de informe de evasão.,"Qual seria impacto da evasão pro aluno depois de cadastrado após, aprovação ou reprovação?","Qual seria impacto da evasão pro aluno depois de cadastrado aprovação ou reprovação?
+Olá! No SGP 2.0, a ""evasão"" é uma das situações finais de matrícula que pode ser registrada para um estudante, assim como a ""aprovação"" ou ""reprovação"".
+
+Se um estudante teve sua aprovação ou reprovação registrada e, posteriormente, ocorre a evasão, o impacto é o seguinte:
+
+Cancelamento da Matrícula: A evasão significa que o estudante não está mais na rede de ensino. O sistema registrará essa situação, levando ao cancelamento da matrícula ativa.
+Status ""INATIVO"": Conforme as movimentações são concluídas e atualizadas no SGP, o estudante passará a ter o status ""INATIVO"".
+Registro Histórico: A aprovação ou reprovação anterior permanecerá registrada no histórico do estudante para o ano letivo ou período em que ocorreu. No entanto, a situação atual do estudante na rede será de ""evasão"", indicando que ele não faz mais parte do sistema educacional.
+Em resumo, a evasão encerra o vínculo do estudante com a rede, independentemente de seu último resultado acadêmico (aprovação ou reprovação), e o status no SGP será atualizado para refletir essa saída.
+
+Posso ajudar com mais alguma dúvida sobre as movimentações de matrícula?","Que fosse mais direto ao ponto principal, que era qual impacto isso teria na jornada do estudante.","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Diego,06/03,Acesso às planilhas,O operador do sistema está com dificuldade para baixar a planilha de movimentação. Consegue me ajudar?,"Olá! Para baixar o modelo da planilha de movimentação no SGP 2.0, você deve seguir os passos para acessar a planilha de cadastro e rematrícula, que é utilizada para novas movimentações e alterações de matrículas ativas.
+Siga este passo a passo:
+
+No menu superior do sistema, clique em ""Estudantes"".
+
+Na lateral esquerda da tela, você encontrará o menu ""Gerenciar Estudantes"".
+
+Depois, siga para a aba ""Cadastrar e rematrícula"".
+
+No painel principal da aba ""Cadastrar e rematricular"", você encontrará o ícone ""Baixar modelo"" de planilha.
+
+Este modelo é a ""Planilha de matrícula de novos cadastros e alterar matrículas ativas"", que é a base para registrar novas movimentações.
+
+Lembre-se que, conforme as orientações, a ""planilha de envio é para novas movimentações"", enquanto a ""planilha de edição ou confirmação é o processo de editar ou confirmar"" dados já existentes.
+
+Posso ajudar com mais alguma etapa do processo?",,
+Gabriel Mallet,06/03/2026,Mudanças do SGP 1.0 para 2.0,"O que preciso cuidar nos envios do SGP 2.0 em relação a mudanças no sistema da versão anterior?","Olá! Para garantir o sucesso no envio de dados para o SGP 2.0, é fundamental estar atento a alguns pontos importantes. Não tenho informações sobre as mudanças específicas em relação a uma versão anterior, mas posso detalhar o que você precisa cuidar nos envios atuais: [...]",Ter informação das principais mudanças no sistema de forma comparada entre a versão anterior e o SGP 2.0,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Vanessa Moura,06/03/2026,SGP,O SGP é um programa?,"Sim, o Sistema Gestão Presente (SGP) é um sistema ou plataforma desenvolvido pelo Ministério da Educação (MEC). Ele funciona como uma ferramenta digital para a gestão de dados da Educação Básica, auxiliando no acompanhamento de estudantes, profissionais e escolas.
+
+
+
+","Não, o Sistema Gestão Presente (SGP) é um sistema ou plataforma desenvolvido pelo Ministério da Educação (MEC). Ele funciona como uma ferramenta digital para a gestão de dados da Educação Básica, auxiliando no acompanhamento de estudantes, profissionais e escolas.
+
+
+
+
+","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Vanessa Moura,06/03/2026,Acesso aos sistemas,"Como faço para acessar os sistemas?
+","Para acessar o Sistema Gestão Presente (SGP) e o Gestão Presente na Escola (GPE), o processo geralmente envolve o envio de dados e o recebimento de credenciais pelo Ministério da Educação (MEC).
+
+Aqui está o que o contexto indica:
+
+Envio de Dados e Recebimento de Chaves (para acesso via API):
+
+Após seguir as orientações e enviar todos os dados solicitados, a equipe da Secretaria da Educação Básica do Ministério da Educação enviará ao e-mail indicado um arquivo criptografado.
+Este arquivo conterá duas chaves:
+Chave para ambiente de HOMOLOGAÇÃO: para realização de testes.
+Chave para ambiente de PRODUÇÃO: a chave definitiva para envio dos dados.
+Essas chaves são essenciais para implementar a autenticação via API Key e controlar o acesso à API.
+Acesso para Operadores do Sistema:
+
+O contexto menciona que você terá acesso ao sistema antes do período da janela de envio.
+É importante testar os acessos dos operadores cadastrados.
+Em resumo:
+
+O acesso é concedido pelo Ministério da Educação após a conclusão de um processo de cadastro e envio de dados.
+As chaves de acesso (especialmente para API) são enviadas por e-mail pela equipe do MEC.
+Se você é um operador e ainda não possui acesso, verifique com a sua Secretaria de Educação ou com a equipe responsável pelo cadastro na sua instituição, pois eles devem ter recebido as instruções e credenciais do MEC.
+Se precisar de suporte adicional ou não tiver recebido suas credenciais após o processo de cadastro, você pode consultar os canais de suporte do SGP, como os plantões técnicos de dúvidas, FAQ de Suporte, Canal de WhatsApp ou o Fale Conosco integrado à plataforma.",Incluir os links direto para acessar os sistemas,S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+Vanessa Moura,06/03/2026,Dados no SGP 2.0,"O SGP 2.0 recebe dados de todas as etapas de ensino?","Sim, o SGP 2.0 recebe dados de estudantes de todas as etapas de ensino.
+
+A plataforma centraliza informações essenciais sobre a trajetória escolar dos alunos da educação básica, desde a matrícula inicial até a conclusão ou desligamento.","Não. Por enquanto, o SGP 2.0 recebe dados de estudantes da Educação Infantil e do Ensino Fundamental (Anos Iniciais e Anos Finais). Os dados do Ensino Médio serão incorporados futuramente. 
+ 
+
+Para a Educação Infantil e o Ensino Fundamental (Anos Iniciais e Anos Finais), a plataforma centraliza informações essenciais sobre a trajetória escolar dos alunos da educação básica, desde a matrícula inicial até a conclusão ou desligamento.",S1 — Crítica: induz erro operacional grave / orientação errada / risco alto de uso.
+Vanessa Moura,06/03/2026,Uso inicial,"Como posso aprender a mexer no sistema do SGP?","Olá! Para aprender a utilizar o Sistema Gestão Presente (SGP 2.0), você pode seguir estas orientações:
+
+Acesse o Sistema:
+
+Abra seu navegador e digite o endereço: https://gestaopresente.mec.gov.br/login
+Entre com sua conta gov.br.
+Participe das Formações:
+
+O MEC Gestão Presente oferece formações e encontros virtuais específicos para operadores. Esses encontros são ideais para entender as funcionalidades e o papel estratégico do operador. Fique atento às comunicações do MEC sobre as próximas sessões.
+Explore as Funcionalidades Principais:
+
+Na tela inicial do SGP, você terá uma visão geral do programa. O menu principal fica no lado direito, no topo da tela.
+Na aba ""Profissionais"", por exemplo, você encontrará um menu lateral esquerdo com três funcionalidades principais:
+Cadastrar: Para incluir novos profissionais.
+Alterar dados pessoais: Para modificar informações de profissionais já cadastrados.
+Alterar vínculos, lotações e funções: Para ajustar os dados de vínculo empregatício, local de trabalho e cargo.
+Consulte os Materiais de Apoio:
+
+O sistema e as formações geralmente vêm acompanhados de materiais complementares, como manuais e modelos de planilhas, que detalham os passos para o envio e a gestão de dados.
+Ao explorar o sistema e participar das formações, você se familiarizará rapidamente com as ferramentas e processos. Se tiver dúvidas específicas sobre alguma funcionalidade, pode me perguntar!",Incluir a Trilha Formativa no AVAMEC com o hiperlink,"S4 — Baixa: ajuste editorial (português, formatação, tom)."
+Vanessa Moura,06/03/2026,Uso inicial,"Tem algum curso do SGP?
+","Sim, existem diversas formas de aprender e se aprofundar no uso do SGP 2.0, que funcionam como ""cursos"" ou materiais de formação contínua:
+
+DRIVE DO OPERADOR:
+
+Você pode acessar um repositório completo de materiais de apoio, incluindo vídeos das últimas formações, vídeos de passo a passo, tutoriais e modelos de preenchimento de planilhas.
+Link: DRIVE DO OPERADOR
+Plantões de Dúvidas e Plantões Formativos:
+
+O MEC Gestão Presente oferece sessões ao vivo focadas em temas específicos do SGP, como ""Primeiros passos SGP"", ""Envio de Profissionais no SGP"", ""API"" e correção de erros.
+Exemplos de temas e datas passadas:
+20/01 (Terça-feira): Plantão de Dúvidas: SGP Foco: Primeiros passos SGP e Dúvidas gerais/correção de erros.
+21/01 (Quarta-feira): Plantão formativo: SGP Tema: Envio de Profissionais no SGP e Plantão de Dúvidas: SGP Foco: API + Correção de erros.
+22/01 (Quinta-feira): Plantão de Dúvidas: SGP Foco: Dúvidas gerais e correção de erros de envios no SGP.
+Fique atento à programação divulgada pelo MEC para participar das próximas sessões ao vivo.
+Gravações de Encontros Formativos:
+
+Caso você tenha perdido algum encontro formativo, as gravações estão disponíveis para você rever os conteúdos quando e onde quiser.
+Exemplos de gravações disponíveis (semana de 5 a 8 de agosto):
+05/8: Gestão de dados no Sistema Gestão Presente: Dados de Estudantes - Parte II (https://youtube.com/live/aNB2jsf4jfs)
+06/8: Gestão de dados no Sistema Gestão Presente: Dados de Profissionais da Educação - Parte I (https://youtube.com/live/3kJOX5m15gQ)
+07/8: Gestão de dados no Sistema Gestão Presente: Dados Profissionais da Educação - Parte II (https://youtube.com/live/xj45Jkv8SFo)
+08/8: Envio de dados por API (https://youtube.com/live/026LKDUZIKc)
+Esses recursos são excelentes para aprender a operar o SGP 2.0, tirar dúvidas e se manter atualizado.","Esses materiais são do SGP 1.0, mas a resposta indica como se fosse do SGP 2.0. Também incluir na resposta, além dos materiais atualizados, a Trilha Formativa no AVAMEC com o hiperlink. ",S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+Julya Dornelles,06/03/2026,Orientações com relação ao preenchimento de uma coluna específica da planilha de cadastros,"Olá, você consegue me explicar o que significa a a coluna ''TURMA_FORMA_ORGANIZAÇÃO_QUANTIDADE_TOTAL  da planilha de cadastro de estudantes?","lá! A coluna TURMA_ORGANIZACAO_QUANTIDADE_TOTAL na planilha de cadastro de estudantes refere-se ao número total de etapas que compõem a forma de organização pedagógica da turma.
+
+Em outras palavras, é a quantidade total de anos, semestres, ciclos, grupos seriados, módulos ou períodos que o estudante percorre do início ao fim dentro da organização adotada pela turma.
+
+Dica para preenchimento: Pergunte-se: ""Quantas etapas a turma percorre do início ao fim dentro da organização pedagógica adotada?"" A resposta será o valor a ser informado neste campo.
+
+Exemplos:
+
+Educação Infantil (Séries Anuais): Se a organização é ""Pré I e Pré II"", a quantidade total é 2.
+Ensino Fundamental - Anos Iniciais (Séries Anuais): Se a organização é ""1º ao 5º ano"", a quantidade total é 5.
+Ensino Fundamental - Anos Finais (Módulos): Se a organização é ""Módulo I (6º-7º) e Módulo II (8º-9º)"", a quantidade total é 2.
+Ensino Médio (Séries Anuais): Se a organização é ""1º ao 3º ano"", a quantidade total é 3.
+Ensino Médio (Organização por semestres): A quantidade total é 6.
+EJA - Fundamental (Módulos): Se a organização é ""Módulo I (1º ao 5º ano) e Módulo II (6º ao 9º ano)"", a quantidade total é 2.
+Este campo garante que o sistema compreenda a estrutura completa do percurso educacional da turma.
+
+Posso ajudar com mais alguma dúvida sobre o preenchimento?",Incluir o link para o guia de preenchimento  da planilha referida na resposta.,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
