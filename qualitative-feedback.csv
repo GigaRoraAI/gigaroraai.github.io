@@ -1,11 +1,4 @@
 Quem testou,Data,Assunto,Pergunta,Resposta do chatbot (ou parte principal desta),Correção sugerida,Severidade
-Fulano,04/03/2026,Migração de dados eviado no SGP 1.0 para o 2.0,xxxx,xxxx,Materiais/conteúdos desatualizados - atualizar a base de mateiriais,"S1 — Crítica: induz erro operacional grave / orientação errada / risco alto de uso.
-
-S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
-
-S3 — Média: ruído de clareza, falta exemplo, pequena lacuna.
-
-S4 — Baixa: ajuste editorial (português, formatação, tom)."
 Renato,04/03/2026,Calendário de Janelas,e quais serão as janelas de envio de dados?,"Primeira janela de 2026: de 19 de janeiro a 06 de fevereiro
 Segunda janela de 2026: de 10 de fevereiro a 06 de março",Atualizar calendário de janelas,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
 Renato,04/03/2026,grupos de whatsapp,como posso ter acesso ao grupo de whataspp?,"No entanto, as informações sobre como ter acesso direto a este grupo (como um link ou QR Code específico para adesão) não estão detalhadas na minha base de conhecimento atual","Criar material com link do grupo geral (""canal de transmissão"")","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
@@ -18,7 +11,8 @@ Mestrado
 Doutorando
 Doutor","S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
 Carlos MEC,05/03/2026,respostas,-,-,Ser clicável,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
-Gabriel Mallet,06/03/2026,Orientações sobre cadastro de matrícula,"Você pode me ajudar a enviar cadastros de matrículas no sistema?","[...]
+Gabriel Mallet,06/03/2026,Orientações sobre cadastro de matrícula,"Você pode me ajudar a enviar cadastros de matrículas no sistema?
+","[...]
 DADOS OBRIGATÓRIOS - PLANILHA DE CADASTRO E REMATRÍCULA:
 
 | Texto da coluna | Tipo de dado | Observação","A resposta iniciou bem completa, indicando o passo a passo para envio do dado no SGP, mas ao final, não gerou a informação dos dados obrigatórios na planilha e o sistema travou, sem completar a resposta. Tive que apertar o botão de stop para ele parar de tentar gerar a resposta.",S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
@@ -49,12 +43,14 @@ Este modelo é a ""Planilha de matrícula de novos cadastros e alterar matrícul
 Lembre-se que, conforme as orientações, a ""planilha de envio é para novas movimentações"", enquanto a ""planilha de edição ou confirmação é o processo de editar ou confirmar"" dados já existentes.
 
 Posso ajudar com mais alguma etapa do processo?",,
-Gabriel Mallet,06/03/2026,Mudanças do SGP 1.0 para 2.0,"O que preciso cuidar nos envios do SGP 2.0 em relação a mudanças no sistema da versão anterior?","Olá! Para garantir o sucesso no envio de dados para o SGP 2.0, é fundamental estar atento a alguns pontos importantes. Não tenho informações sobre as mudanças específicas em relação a uma versão anterior, mas posso detalhar o que você precisa cuidar nos envios atuais: [...]",Ter informação das principais mudanças no sistema de forma comparada entre a versão anterior e o SGP 2.0,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
+Gabriel Mallet,06/03/2026,Mudanças do SGP 1.0 para 2.0,"O que preciso cuidar nos envios do SGP 2.0 em relação a mudanças no sistema da versão anterior?
+","Olá! Para garantir o sucesso no envio de dados para o SGP 2.0, é fundamental estar atento a alguns pontos importantes. Não tenho informações sobre as mudanças específicas em relação a uma versão anterior, mas posso detalhar o que você precisa cuidar nos envios atuais: [...]",Ter informação das principais mudanças no sistema de forma comparada entre a versão anterior e o SGP 2.0,"S3 — Média: ruído de clareza, falta exemplo, pequena lacuna."
 Vanessa Moura,06/03/2026,SGP,O SGP é um programa?,"Sim, o Sistema Gestão Presente (SGP) é um sistema ou plataforma desenvolvido pelo Ministério da Educação (MEC). Ele funciona como uma ferramenta digital para a gestão de dados da Educação Básica, auxiliando no acompanhamento de estudantes, profissionais e escolas.
 
 
 
-","Não, o Sistema Gestão Presente (SGP) é um sistema ou plataforma desenvolvido pelo Ministério da Educação (MEC). Ele funciona como uma ferramenta digital para a gestão de dados da Educação Básica, auxiliando no acompanhamento de estudantes, profissionais e escolas.
+
+","Não, o Sistema Gestão Presente (SGP) é um sistema ou plataforma desenvolvido pelo Ministério da Educação (MEC). Ele funciona como uma ferramenta digital para a gestão de dados da Educação Básica, auxiliando no acompanhamento de estudantes, profissionais e escolas.
 
 
 
@@ -82,13 +78,15 @@ O acesso é concedido pelo Ministério da Educação após a conclusão de um pr
 As chaves de acesso (especialmente para API) são enviadas por e-mail pela equipe do MEC.
 Se você é um operador e ainda não possui acesso, verifique com a sua Secretaria de Educação ou com a equipe responsável pelo cadastro na sua instituição, pois eles devem ter recebido as instruções e credenciais do MEC.
 Se precisar de suporte adicional ou não tiver recebido suas credenciais após o processo de cadastro, você pode consultar os canais de suporte do SGP, como os plantões técnicos de dúvidas, FAQ de Suporte, Canal de WhatsApp ou o Fale Conosco integrado à plataforma.",Incluir os links direto para acessar os sistemas,S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
-Vanessa Moura,06/03/2026,Dados no SGP 2.0,"O SGP 2.0 recebe dados de todas as etapas de ensino?","Sim, o SGP 2.0 recebe dados de estudantes de todas as etapas de ensino.
+Vanessa Moura,06/03/2026,Dados no SGP 2.0,"O SGP 2.0 recebe dados de todas as etapas de ensino?
+","Sim, o SGP 2.0 recebe dados de estudantes de todas as etapas de ensino.
 
 A plataforma centraliza informações essenciais sobre a trajetória escolar dos alunos da educação básica, desde a matrícula inicial até a conclusão ou desligamento.","Não. Por enquanto, o SGP 2.0 recebe dados de estudantes da Educação Infantil e do Ensino Fundamental (Anos Iniciais e Anos Finais). Os dados do Ensino Médio serão incorporados futuramente. 
  
 
 Para a Educação Infantil e o Ensino Fundamental (Anos Iniciais e Anos Finais), a plataforma centraliza informações essenciais sobre a trajetória escolar dos alunos da educação básica, desde a matrícula inicial até a conclusão ou desligamento.",S1 — Crítica: induz erro operacional grave / orientação errada / risco alto de uso.
-Vanessa Moura,06/03/2026,Uso inicial,"Como posso aprender a mexer no sistema do SGP?","Olá! Para aprender a utilizar o Sistema Gestão Presente (SGP 2.0), você pode seguir estas orientações:
+Vanessa Moura,06/03/2026,Uso inicial,"Como posso aprender a mexer no sistema do SGP?
+","Olá! Para aprender a utilizar o Sistema Gestão Presente (SGP 2.0), você pode seguir estas orientações:
 
 Acesse o Sistema:
 
@@ -132,6 +130,7 @@ Exemplos de gravações disponíveis (semana de 5 a 8 de agosto):
 07/8: Gestão de dados no Sistema Gestão Presente: Dados Profissionais da Educação - Parte II (https://youtube.com/live/xj45Jkv8SFo)
 08/8: Envio de dados por API (https://youtube.com/live/026LKDUZIKc)
 Esses recursos são excelentes para aprender a operar o SGP 2.0, tirar dúvidas e se manter atualizado.","Esses materiais são do SGP 1.0, mas a resposta indica como se fosse do SGP 2.0. Também incluir na resposta, além dos materiais atualizados, a Trilha Formativa no AVAMEC com o hiperlink. ",S2 — Alta: resposta incorreta ou incompleta em tema muito recorrente.
+
 Julya Dornelles,06/03/2026,Orientações com relação ao preenchimento de uma coluna específica da planilha de cadastros,"Olá, você consegue me explicar o que significa a a coluna ''TURMA_FORMA_ORGANIZAÇÃO_QUANTIDADE_TOTAL  da planilha de cadastro de estudantes?","lá! A coluna TURMA_ORGANIZACAO_QUANTIDADE_TOTAL na planilha de cadastro de estudantes refere-se ao número total de etapas que compõem a forma de organização pedagógica da turma.
 
 Em outras palavras, é a quantidade total de anos, semestres, ciclos, grupos seriados, módulos ou períodos que o estudante percorre do início ao fim dentro da organização adotada pela turma.
